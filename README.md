@@ -1,4 +1,7 @@
-# memory-game
+# MemoryVue
+
+<a href="https://ibb.co/nj9BsSz"><img src="https://i.ibb.co/7KPQJF2/memory-vue.png" alt="memory-vue" border="0"></a>
+
 
 ## Project setup
 ```
