@@ -399,15 +399,15 @@ span {
   .menu-area {
     margin: 15px auto;
     padding: 10px 0;
-    max-width: 620px;
+    max-width: 580px;
     background-color: rgba(255,255,255, 1);
     border-radius: 15px;
   }
 
 
   .menu-area li {
-    width: 80px;
-    height: 80px;
+    width: 65px;
+    height: 65px;
     display: inline-grid;
     align-items: center;
     padding: 15px;
